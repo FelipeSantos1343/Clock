@@ -1,2 +1,2 @@
 # Clock
-Um relógio feio em JavaSript
+Um relógio feito em JavaSript
